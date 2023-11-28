@@ -1,0 +1,11 @@
+1.  Inicio
+2.  contador, i[0n,n] <-- 1 
+3.  suma, i[0,n] <-- 0
+4.  Mientras contador <= 10 entonces
+5.      Si (contador MOD 2) == 1 entonces
+6.          suma <-- suma + contador
+7.      Fin Si
+8.      contador <-- contador + 1
+9.  Fin Mientras
+10.  Escribir "La suma final es: " + suma
+11.  Fin
